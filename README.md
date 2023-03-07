@@ -1,2 +1,3 @@
-# firefox-hard-hard-refresh-button
-actually Hard refresh tab (clears cookies, session storage, localStorage)
+# Firefox and Chrome (including all Crhomium based) browser HARD hard refresh
+
+actually Hard refresh tab (clears cookies, cache, session storage AND localStorage)
